@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_resources"
+        android:icon="@drawable/icons8_address_book_50"
+        android:title="@string/title_resources" />
+
+    <item
+        android:id="@+id/navigation_report"
+        android:icon="@drawable/icons8_police_badge_50"
+        android:title="@string/title_report" />
+
+    <item
+        android:id="@+id/navigation_twitter"
+        android:icon="@drawable/icons8_twitter_50"
+        android:title="@string/title_twitter" />
+
+</menu>
